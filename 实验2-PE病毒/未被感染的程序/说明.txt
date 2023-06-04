@@ -1,0 +1,3 @@
+try.exe 会在控制台输出 hello world
+try.exe是目标程序
+try1.exe,try.exe2是目录下用来测试被目标程序感染的其它PE文件
